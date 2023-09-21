@@ -78,63 +78,58 @@
 
 # Aquivo: 
 
-Comandos	Atalhos de teclado
-Fechar	Alt+F4	
-Novo arquivo	Ctrl+N	
-Novo Projeto	Ctrl+Shift+N	
-Novo site	Shift+Alt+N	
-Abrir arquivo	Ctrl+O	
-Abrir projeto	Ctrl+Shift+O	
-Abrir site	Shift+Alt+O	
-Renomear	F2 
-Salvar tudo	Ctrl+Shift+S	
-Salvar Itens selecionados	Ctrl+S	
-Exibir no navegador	Ctrl+Shift+W	
+- Comandos	Atalhos de teclado
+- Fechar	Alt+F4	
+- Novo arquivo	Ctrl+N	
+- Novo Projeto	Ctrl+Shift+N	
+- Novo site	Shift+Alt+N	
+- Abrir arquivo	Ctrl+O	
+- Abrir projeto	Ctrl+Shift+O	
+- Abrir site	Shift+Alt+O	
+- Renomear	F2 
+- Salvar tudo	Ctrl+Shift+S	
+- Salvar Itens selecionados	Ctrl+S	
+- Exibir no navegador	Ctrl+Shift+W	
 
 # Projeto: 
-
-Comandos	Atalhos de teclado 
-Adicionar item existente	Shift+Alt+A	
-Adicionar novo item	Ctrl+Shift+A	
+ 
+- Adicionar item existente	Shift+Alt+A	
+- Adicionar novo item	Ctrl+Shift+A	
 
 # Refatorar: 
 
-Comando	Atalho de teclado 
-Extrair método	Ctrl+R, Ctrl+M	Refactor.ExtractMethod
-Ferramentas: atalhos populares
-Comando	Atalho de teclado [Contextos especiais]	ID de Comando
-Anexar ao processo	Ctrl+Alt+P	Tools.AttachtoProcess
-Exibir: atalhos populares
-Comandos	Atalhos de teclado [Contextos especiais]	ID de Comando
-Exibição de classe	Ctrl+Shift+C	View.ClassView
-Editar rótulo	F2	View.EditLabel
-Lista de erros	Ctrl+\, Ctrl+E
+- Comando	Atalho de teclado 
+- Extrair método	Ctrl+R, Ctrl+M
+  
+# Ferramentas: 
 
-ou Ctrl+\, E	View.ErrorList
-Navegar para trás	Ctrl+-	View.NavigateBackward
-Navegar para frente	Ctrl+Shift+-	View.NavigateForward
-Navegador de objetos	Ctrl+Alt+J	View.ObjectBrowser
-Saída	Ctrl+Alt+O	View.Output
-Janela de Propriedades	F4	View.PropertiesWindow
-Atualizar	F5 [Team Explorer]	View.Refresh
-Gerenciador de servidor	Ctrl+Alt+S	View.ServerExplorer
-Mostrar marca inteligente	Ctrl+.
+- Anexar ao processo	Ctrl+Alt+P	
 
-ou Shift+Alt+F10 [Modo Design do Editor de HTML]	View.ShowSmartTag
-Gerenciador de soluções	Ctrl+Alt+L	View.SolutionExplorer
-TFS Team Explorer	Ctrl+\, Ctrl+M	View.TfsTeamExplorer
-Caixa de Ferramentas	Ctrl+Alt+X	View.Toolbox
-Exibir Código	Enter [Diagrama de Classe]
+# Exibir: atalhos populares
 
-ou F7 [Designer de Configurações]	View.ViewCode
-Designer de exibição	Shift+F7 [Modo Código-fonte do Editor de HTML]	View.ViewDesigner
-Janela: atalhos populares
-Comandos	Atalhos de teclado [Contextos especiais]	ID de Comando
-Ativar janela do documento	Esc	Window.ActivateDocumentWindow
-Fechar janela do documento	Ctrl+F4	Window.CloseDocumentWindow
-Próxima janela do documento	Ctrl+F6	Window.NextDocumentWindow
-Nav próxima janela do documento	Ctrl+Tab	Window.NextDocumentWindowNav
-Próximo painel dividido	F6	Window.NextSplitPane
+- Exibição de classe	Ctrl+Shift+C	
+- Editar rótulo	F2
+- Lista de erros	Ctrl+\, Ctrl+E ou Ctrl+\, E	
+- Navegar para trás	Ctrl+-	
+- Navegar para frente	Ctrl+Shift+-	
+- Navegador de objetos	Ctrl+Alt+J	
+- Saída	Ctrl+Alt+O	
+- Janela de Propriedades	F4	
+- Atualizar	F5 [Team Explorer]	
+- Gerenciador de servidor	Ctrl+Alt+S	
+- Mostrar marca inteligente	Ctrl+. ou Shift+Alt+F10 
+- Gerenciador de soluções	Ctrl+Alt+L
+- TFS Team Explorer	Ctrl+\, Ctrl+M
+- Caixa de Ferramentas	Ctrl+Alt+X
+- Designer de exibição	Shift+F7
+  
+# Janela: atalhos populares
+- Comandos	Atalhos de teclado 
+- Ativar janela do documento	Esc	
+- Fechar janela do documento	Ctrl+F4	
+- Próxima janela do documento	Ctrl+F6	
+- Nav próxima janela do documento	Ctrl+Tab	
+- Próximo painel dividido	F6	
 
 Analisar: atalhos globais
 Comandos	Atalhos do teclado	ID de Comando
