@@ -1,11 +1,13 @@
 # GitHub
+
+
 # Build: 
 
 - Solução de compilação	Ctrl+Shift+B	Build.BuildSolution
 - Cancelar	Ctrl+Break	Build.Cancel
 - Compilar	Ctrl+F7	Build.Compile
 - Executar Análise de Código na Solução	Alt+F11	Build.RunCodeAnalysisonSolution
-- 
+
 # Depurar:
 
 - Interromper na função	Ctrl+B	Debug.BreakatFunction
@@ -26,7 +28,7 @@
 
 # Editar: 
 
-- [Contextos especiais]
+- Contextos especiais
 - Quebrar linha	Enter [Editor de Texto, Designer de Relatórios, Designer de Formulários do Windows] ou Shift+Enter [Editor de Texto]	Edit.BreakLine
 - Recolher para definições	Ctrl+M, Ctrl+O [Editor de Texto]	Edit.CollapseToDefinitions
 - Comentar seleção	Ctrl+K, Ctrl+C [Editor de Texto]	Edit.CommentSelection
