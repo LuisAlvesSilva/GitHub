@@ -5,6 +5,7 @@
 - Cancelar	Ctrl+Break	Build.Cancel
 - Compilar	Ctrl+F7	Build.Compile
 - Executar Análise de Código na Solução	Alt+F11	Build.RunCodeAnalysisonSolution
+- 
 # Depurar:
 
 - Interromper na função	Ctrl+B	Debug.BreakatFunction
@@ -22,7 +23,7 @@
 - Passar por	F10	Debug.StepOver
 - Parar a depuração	Shift+F5	Debug.StopDebugging
 - Alterna um ponto de interrupção	F9	Debug.ToggleBreakpoint
-- 
+
 # Editar: 
 
 - [Contextos especiais]
