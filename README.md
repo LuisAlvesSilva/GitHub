@@ -1,46 +1,36 @@
 # GitHub
-Build: atalhos populares
-Comandos	Atalhos do teclado	ID de Comando
-Solução de compilação	Ctrl+Shift+B	Build.BuildSolution
-Cancelar	Ctrl+Break	Build.Cancel
-Compilar	Ctrl+F7	Build.Compile
-Executar Análise de Código na Solução	Alt+F11	Build.RunCodeAnalysisonSolution
-Depurar: atalhos populares
-Comandos	Atalhos de teclado [Contextos especiais]	ID de Comando
-Interromper na função	Ctrl+B	Debug.BreakatFunction
-Quebrar tudo	Ctrl+Alt+Break	Debug.BreakAll
-Excluir todos os pontos de interrupção	Ctrl+Shift+F9	Debug.DeleteAllBreakpoints
-Exceções	Ctrl+Alt+E	Debug.Exceptions
-Inspeção Rápida	Ctrl+Alt+Q
+# Build: 
 
-ou Shift+F9	Debug.QuickWatch
-Reiniciar	Ctrl+Shift+F5	Debug.Restart
-Executar até o cursor	Ctrl+F10	Debug.RunToCursor
-Definir próxima instrução	Ctrl+Shift+F10	Debug.SetNextStatement
-Iniciar	F5	Debug.Start
-Iniciar sem depuração	Ctrl+F5	Debug.StartWithoutDebugging
-Avançar	F11	Debug.StepInto
-Sair	Shift+F11	Debug.StepOut
-Passar por	F10	Debug.StepOver
-Parar a depuração	Shift+F5	Debug.StopDebugging
-Alterna um ponto de interrupção	F9	Debug.ToggleBreakpoint
-Editar: atalhos populares
-Comandos	Atalhos de teclado [Contextos especiais]	ID de Comando
-Quebrar linha	Enter [Editor de Texto, Designer de Relatórios, Designer de Formulários do Windows]
+- Solução de compilação	Ctrl+Shift+B	Build.BuildSolution
+- Cancelar	Ctrl+Break	Build.Cancel
+- Compilar	Ctrl+F7	Build.Compile
+- Executar Análise de Código na Solução	Alt+F11	Build.RunCodeAnalysisonSolution
+# Depurar:
 
-ou Shift+Enter [Editor de Texto]	Edit.BreakLine
-Recolher para definições	Ctrl+M, Ctrl+O [Editor de Texto]	Edit.CollapseToDefinitions
-Comentar seleção	Ctrl+K, Ctrl+C [Editor de Texto]	Edit.CommentSelection
-Completar a palavra	Alt+Seta para a Direita [Editor de Texto, Designer de Fluxo de Trabalho]
+- Interromper na função	Ctrl+B	Debug.BreakatFunction
+- Quebrar tudo	Ctrl+Alt+Break	Debug.BreakAll
+- Excluir todos os pontos de interrupção	Ctrl+Shift+F9	Debug.DeleteAllBreakpoints
+- Exceções	Ctrl+Alt+E	Debug.Exceptions
+- Inspeção Rápida	Ctrl+Alt+Q ou Shift+F9	Debug.QuickWatch
+- Reiniciar	Ctrl+Shift+F5	Debug.Restart
+- Executar até o cursor	Ctrl+F10	Debug.RunToCursor
+- Definir próxima instrução	Ctrl+Shift+F10	Debug.SetNextStatement
+- Iniciar	F5	Debug.Start
+- Iniciar sem depuração	Ctrl+F5	Debug.StartWithoutDebugging
+- Avançar	F11	Debug.StepInto
+- Sair	Shift+F11	Debug.StepOut
+- Passar por	F10	Debug.StepOver
+- Parar a depuração	Shift+F5	Debug.StopDebugging
+- Alterna um ponto de interrupção	F9	Debug.ToggleBreakpoint
+- 
+# Editar: 
 
-ou Ctrl+Barra de espaços [Editor de Texto, Designer de Fluxo de Trabalho]
-
-ou Ctrl+K, W [Designer de Fluxo de Trabalho]
-
-ou Ctrl+K, Ctrl+W [Designer de Fluxo de Trabalho]	Edit.CompleteWord
-Copiar	Ctrl+C
-
-ou Ctrl+Insert	Edit.Copy
+- [Contextos especiais]
+- Quebrar linha	Enter [Editor de Texto, Designer de Relatórios, Designer de Formulários do Windows] ou Shift+Enter [Editor de Texto]	Edit.BreakLine
+- Recolher para definições	Ctrl+M, Ctrl+O [Editor de Texto]	Edit.CollapseToDefinitions
+- Comentar seleção	Ctrl+K, Ctrl+C [Editor de Texto]	Edit.CommentSelection
+- Completar a palavra	Alt+Seta para a Direita [Editor de Texto, Designer de Fluxo de Trabalho] ou Ctrl+Barra de espaços [Editor de Texto, Designer de Fluxo de Trabalho] ou Ctrl+K, W [Designer de Fluxo de Trabalho] ou Ctrl+K, Ctrl+W [Designer de Fluxo de Trabalho]	Edit.CompleteWord
+Copiar	Ctrl+C ou Ctrl+Insert	Edit.Copy
 Recortar	Ctrl+X
 
 ou Shift+Delete	Edit.Cut
